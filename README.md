@@ -1,18 +1,22 @@
 # wp-unity-project
 
-## ¹CÀ¸¤¶²Ð
-³o¬O¤@­Ó¥H¤HÅé¤K¤jÀç¾i¯À¬°­I´º³]­pªº°·±d¤p¹CÀ¸¡C
-¹CÀ¸¥D¨¤¦³¤K¤j¯à¶q±ø¡A¤À§O¥Nªíºû¥Í¯ÀD¡Bºû¥Í¯ÀE¡B¹[¡B¶t¡BÁâ¡BÅK¡B¾N¡B¸K¡A¦b¹CÀ¸¹Lµ{¤¤ÀHµÛ¬¡°Ê¶q¼W¥[¤Î³Q²Óµß§ðÀ»³£·|´î¤Ö¡A­nÀH®Éª`·N¥H¬Û¹ïÀ³ªº­¹ª«¨Ó¸É¥RÀç¾i¯À¡A§_«h¥ô¤@Àç¾i¯À¼Æ­È¬°0®É¹CÀ¸³£·|µ²§ô¡C¹CÀ¸¤À¬°3­ÓÃö¥d¡B3­Ó¤£¦Pªº³õ´º¡Fµ²§ô«á¡A·|¸õÂà¨ì·sªº­¶­±¡A¤º¦³¤K¤jÀç¾i¯Àªº¤¶²Ð¡A¥H¤Î¦p¦ó«O«ù¨}¦nªº¶¼­¹²ßºD¥Hºû«ù°·±d¡C
+## éŠæˆ²ä»‹ç´¹
+é€™æ˜¯ä¸€å€‹ä»¥äººé«”å…«å¤§ç‡Ÿé¤Šç´ ç‚ºèƒŒæ™¯è¨­è¨ˆçš„å¥åº·å°éŠæˆ²ã€‚
+éŠæˆ²ä¸»è§’æœ‰å…«å¤§èƒ½é‡æ¢ï¼Œåˆ†åˆ¥ä»£è¡¨ç¶­ç”Ÿç´ Dã€ç¶­ç”Ÿç´ Eã€é‰€ã€éˆ£ã€éŽ‚ã€éµã€é‹…ã€ç¢˜ï¼Œåœ¨éŠæˆ²éŽç¨‹ä¸­éš¨è‘—æ´»å‹•é‡å¢žåŠ åŠè¢«ç´°èŒæ”»æ“Šéƒ½æœƒæ¸›å°‘ï¼Œè¦éš¨æ™‚æ³¨æ„ä»¥ç›¸å°æ‡‰çš„é£Ÿç‰©ä¾†è£œå……ç‡Ÿé¤Šç´ ï¼Œå¦å‰‡ä»»ä¸€ç‡Ÿé¤Šç´ æ•¸å€¼ç‚º0æ™‚éŠæˆ²éƒ½æœƒçµæŸã€‚éŠæˆ²åˆ†ç‚º3å€‹é—œå¡ã€3å€‹ä¸åŒçš„å ´æ™¯ï¼›çµæŸå¾Œï¼Œæœƒè·³è½‰åˆ°æ–°çš„é é¢ï¼Œå…§æœ‰å…«å¤§ç‡Ÿé¤Šç´ çš„ä»‹ç´¹ï¼Œä»¥åŠå¦‚ä½•ä¿æŒè‰¯å¥½çš„é£²é£Ÿç¿’æ…£ä»¥ç¶­æŒå¥åº·ã€‚
 
-## ¾Þ§@»¡©ú
-§Q¥ÎÁä½LªºC§@§ðÀ»¡BªÅ¥ÕÁä¬°¸õÅD¡B¥ª¥k±±¨î¤è¦V¡C
+## æ“ä½œèªªæ˜Ž
+åˆ©ç”¨éµç›¤çš„Cä½œæ”»æ“Šã€ç©ºç™½éµç‚ºè·³èºã€å·¦å³æŽ§åˆ¶æ–¹å‘ã€‚
 
-## ¹CÀ¸ª«¥ó
+## éŠæˆ²ç‰©ä»¶
+[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo1.PNG)
 
-## ¹CÀ¸µe­±
+## éŠæˆ²ç•«é¢
 
-* °_©lµe­±¡G
+* èµ·å§‹ç•«é¢ï¼š
+[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo2.PNG)
 
-* ¹CÀ¸µe­±¡]¤T­ÓÃö¥d¡^¡G
+* éŠæˆ²ç•«é¢ï¼ˆä¸‰å€‹é—œå¡ï¼‰ï¼š
+[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo3.PNG)
 
-* µ²§ôµe­±¡G
+* çµæŸç•«é¢ï¼š
+[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo4.PNG)
