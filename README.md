@@ -8,15 +8,15 @@
 利用鍵盤的C作攻擊、空白鍵為跳躍、左右控制方向。
 
 ## 遊戲物件
-[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo1.PNG)
+![image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo1.PNG)
 
 ## 遊戲畫面
 
 * 起始畫面：
-[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo2.PNG)
+![image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo2.PNG)
 
 * 遊戲畫面（三個關卡）：
-[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo3.PNG)
+![image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo3.PNG)
 
 * 結束畫面：
-[!image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo4.PNG)
+![image](https://github.com/di-yuan/wp-unity-project/blob/master/demo/demo4.PNG)
